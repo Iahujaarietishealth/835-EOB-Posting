@@ -1,4 +1,9 @@
-
 streamlit
+sqlalchemy
+psycopg[binary]
 pandas
+python-dotenv
+openpyxl
+streamlit-aggrid
+bcrypt
 
