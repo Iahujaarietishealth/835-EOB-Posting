@@ -1,6 +1,6 @@
 streamlit
 sqlalchemy
-psycopg[binary]
+psycopg2-binary
 pandas
 python-dotenv
 openpyxl
